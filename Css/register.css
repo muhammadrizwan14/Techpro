@@ -1,0 +1,98 @@
+.courses{
+    
+    width: 80%;
+    margin: auto;
+    color: #384047;
+}
+.form-enrol{
+    max-width: 500px;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background: #f4f7f8;
+    border-radius: 8px;
+    
+}
+.form-enrol h1{
+    text-align: center;
+}
+
+
+b{
+    font-size: 1.4em;
+    margin-bottom: 10px;
+}
+.form-enrol span{
+    background-color: #5fcf80;
+    color: #fff;
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+    font-size: 0.8em;
+    margin-right: 4px;
+    line-height: 30px;
+    text-align: center;
+    text-shadow: 0 1px 0 rgb(255 255 255 / 20%);
+    border-radius: 100%;
+    margin-bottom: 10px;
+}
+form input{
+    background: rgba(255, 255, 255, 0.1);
+    border: none;
+    font-size: 16px;
+    height: auto;
+    margin: 0;
+    outline: 0;
+    padding: 15px;
+    width: 100%;
+    background-color: #e8eeef;
+    color: #8a97a0;
+    box-shadow: 0 1px 0 rgb(0 0 0 / 3%) inset;
+    margin-bottom: 30px;
+}
+
+
+form select{
+    background: rgba(255, 255, 255, 0.1);
+    border: none;
+    font-size: 16px;
+    height: auto;
+    margin: 0;
+    outline: 0;
+    padding: 15px;
+    width: 100%;
+    background-color: #e8eeef;
+    color: #8a97a0;
+    box-shadow: 0 1px 0 rgb(0 0 0 / 3%) inset;
+    margin-bottom: 30px;
+}
+
+form label{
+    display: block;
+    margin-bottom: 8px;
+}
+.btn-reg1{
+    color: #fff;
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+    padding: 8px 12px;
+    border: none;
+    width: 30%;
+   font-size: 18px;
+   border-radius: 8px;
+   margin-bottom: 10px;
+   
+}
+.btn-reg2{
+    padding: 19px 39px 18px 39px;
+    color: #fff;
+    background-color: #4bc970;
+    font-size: 18px;
+    text-align: center;
+    font-style: normal;
+    border-radius: 5px;
+    width: 100%;
+    border: 1px solid #3ac162;
+    border-width: 1px 1px 3px;
+    box-shadow: 0 -1px 0 rgb(255 255 255 / 10%) inset;
+    margin-bottom: 10px;
+}
